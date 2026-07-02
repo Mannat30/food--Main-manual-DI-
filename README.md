@@ -4,7 +4,7 @@ A Java-based Food Management System that allows users to manage food items, plac
 
 ---
 
-## 📌 Features
+##  Features
 
 * ✅ Add New Food Items
 * ✅ Update Food Details
